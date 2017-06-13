@@ -1,0 +1,16 @@
+# Zambia 
+
+This repository is used to support ongoing research on the environmental effects of sugar cane production in Zambia. 
+Annual ET totals during the pre-expansion (2006-2007) and post-expansion of sugar cane fields (2011-2012) are compared. 
+All fields which were converted to sugar cane from nonsugar cane are analyzed and are separated into the following categories: 
+
+Crop to cane (includes grains)
+Forest to cane (forested and small trees)
+Shrub to cane (shrubs) 
+Grass to cane (includes grazed lands) 
+Unknown to cane (all unidentified expanded lands - assumed to originally be noncane)
+
+Always cane (all exisiting cane fields - includes fields that switched irrigation techniques, ie: non center pivot to center pivot)
+Crop to crop (non sugar cane conversion)
+Crop to fallow (non sugar cane conversion) 
+Cane to fallow (non sugar cane conversion)
