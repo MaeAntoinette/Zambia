@@ -1,0 +1,449 @@
+FID,OBJECTID,name,hectares,CP06,newcp,SHAPE_Leng,SHAPE_Area,xGrower,xTransit,xLC_06,NonToCane,AlwaysCane,NeverCane,Luconvert
+0,3,Kascol,2396.971112,1,0,25663.97121,23969711.12,Kascol,NA, ,N,N,N,None
+1,8,Matalikila PAST to CP,16.84714508,0,0,1823.591359,168471.4508,Matalikila,Past to CP,PAST,Y,N,N,grasstocane
+2,9,Matalikila FOR to CP,16.75708368,0,1,1902.335089,167570.8368,Matalikila,For to CP,FOR,Y,N,N,fortocane
+3,10,Matalikila FOR to CP,36.26154443,0,1,3972.09069,362615.4443,Matalikila,For to CP,FOR,Y,N,N,fortocane
+4,11,Matalikila FOR to CP,24.62312643,0,1,2488.821024,246231.2643,Matalikila,For to CP,FOR,Y,N,N,fortocane
+5,19,Syringa crop to CP,25.18774379,0,1,1779.096747,251877.4379,Syringa,Crop to CP,crop,Y,N,N,croptocane
+6,20,Syringa SS to CP,50.59938935,0,1,2521.607978,505993.8935,Syringa,Ss to CP,SS,Y,N,N,shrubtocane
+7,21,Syringa 2 FOR to CP,21.99110204,0,1,1662.372818,219911.0204,Syringa,For to CP,FOR,Y,N,N,fortocane
+8,22,Syringa 2 SPFOR to CP,35.78635528,0,1,2120.623973,357863.5528,Syringa,Spfor to CP,SPFOR,Y,N,N,fortocane
+9,23,Syringa 2 SPFOR to CP,37.00097515,0,1,2156.311589,370009.7515,Syringa,Spfor to CP,SPFOR,Y,N,N,fortocane
+10,24,Syringa 2 SPFOR to CP,12.07600778,0,1,1706.534717,120760.0778,Syringa,Spfor to CP,SPFOR,Y,N,N,fortocane
+11,25,Syringa 2 grazed to CP,17.69205314,0,1,1747.455045,176920.5315,Syringa,Grazed to CP,grazed,Y,N,N,grasstocane
+12,26,Syringa 2 grazed to CP,17.61104052,0,1,1633.064217,176110.4052,Syringa,Grazed to CP,grazed,Y,N,N,grasstocane
+13,27,Syringa2 crop to CP,24.93093413,0,1,1950.625186,249309.3413,Syringa,Crop to CP,crop,Y,N,N,croptocane
+14,28,Syringa GrazedSS to CP,17.494068,0,1,1674.866745,174940.6801,Syringa,Grazedss to CP,GrazedSS,Y,N,N,grasstocane
+15,29,Syringa GrazedSS to CP,28.98563208,0,1,2380.1282,289856.3208,Syringa,Grazedss to CP,GrazedSS,Y,N,N,grasstocane
+16,30,Syringa GrazedSS to CPNON,35.62801888,0,1,2115.927431,356280.1888,Syringa,Grazedss to CPNON,GrazedSS,Y,N,N,grasstocane
+17,31,Syringa crop to CP,37.93778969,0,1,4601.062029,379377.8969,Syringa,Crop to CP,crop,Y,N,N,croptocane
+18,32,Nakambala smllhlder to CP,55.43660252,0,5,2944.353951,554366.0252,Nakambala,Smllhlder to CP,smllhlder,Y,N,N,croptocane
+19,33,Nakambala Crop TO CP,24.60020631,0,5,2439.61098,246002.0631,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+20,34,Nakambala SS to CP,47.63848819,0,5,2446.718002,476384.8819,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+21,35,Nakambala SS to CP,55.46947519,0,5,2640.170417,554694.7519,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+22,36,Nakambala Crop to CP,42.80331891,0,5,2530.218844,428033.1891,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+23,37,Nakambala SS to CP,57.57048389,0,5,2689.706372,575704.8389,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+24,38,Nakambala Shrub to CP,50.45503653,0,5,2779.992705,504550.3653,Nakambala,Shrub to CP,Shrub,Y,N,N,shrubtocane
+25,39,Nakambala SS to CP,53.51172583,0,5,2593.160579,535117.2583,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+26,40,Nakambala crop to CP,13.88169617,0,5,1454.177269,138816.9617,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+27,41,Nakambala SS to CP,35.09948633,0,5,3116.891521,350994.8633,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+28,42,Nakambala crop to CP,23.07433634,0,5,2003.134462,230743.3634,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+29,43,Nakambala SS to CP,84.84399809,0,5,3282.865516,848439.9809,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+30,44,Nakambala SS to CP,42.68841756,0,5,2316.114151,426884.1756,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+31,45,Nakambala SS to CP,43.75484545,0,5,2344.86589,437548.4545,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+32,46,Nakambala SS to CP,41.76525248,0,5,2290.933525,417652.5248,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+33,47,Nakambala SS to CP,63.42578703,0,5,2839.702282,634257.8703,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+34,48,Nakambala SS to CP,40.37998108,0,5,2275.577748,403799.8108,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+35,49,Nakambala SS to CP,68.96195274,0,5,2953.124231,689619.5274,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+36,50,Nakambala SS to CP,27.29312898,0,5,1872.877296,272931.2898,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+37,51,Nakambala SS to CP,38.60889194,0,5,2202.66576,386088.9194,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+38,52,Nakambala MedSm Holder,38.58811732,0,5,2217.464681,385881.1732,Nakambala,Medsm MedSm Holder,MedSm,Y,N,N,croptocane
+39,53,Nakambala MedSm Holder,56.61509521,0,5,2682.997692,566150.9521,Nakambala,Medsm MedSm Holder,MedSm,Y,N,N,croptocane
+40,54,Nakambala SS to CP,49.41249384,0,5,2502.376691,494124.9384,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+41,55,Nakambala SS to CP,43.53785364,0,5,2393.265925,435378.5364,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+42,57,Nakambala SS to CP,46.39558641,0,5,2414.589269,463955.8641,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+43,58,Nakambala SS to CP,82.52338543,0,5,3220.27863,825233.8543,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+44,59,Lukata SMHLD to CP,31.28666042,0,1,2310.668189,312866.6042,Lukata,Smhld to CP,SMHLD,Y,N,N,croptocane
+45,60,Lukata CANE to CP,15.46107311,0,1,1524.892089,154610.7311,Lukata,Cane to CP,CANE,N,N,N,alwayscane
+46,61,Lukata CANE to CP,29.75903858,0,1,2197.672598,297590.3858,Lukata,Cane to CP,CANE,N,N,N,alwayscane
+47,62,Lukata Crop to CP,15.41045015,0,1,1529.430188,154104.5015,Lukata,Crop to CP,crop,Y,N,N,croptocane
+48,63,Nakambala Sml FLDS to CP,22.37621766,0,5,1738.028942,223762.1766,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+49,64,Nakambala Sml FLDS to CP,18.72059152,0,5,1644.013441,187205.9152,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+50,65,Nakambala Sml FLDS to CP,23.90099239,0,5,1827.752349,239009.9239,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+51,66,Nakambala Sml FLDS to CP,34.22278706,0,5,3504.006419,342227.8706,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+52,67,Nakambala Sml FLDS to CP,40.02160021,0,5,3333.618922,400216.0021,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+53,68,Nakambala SS to CP,60.11451097,0,5,2748.492722,601145.1097,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+54,69,Nakambala SS to CP,77.12759702,0,5,3113.220148,771275.9702,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+55,70,Nakambala SS to CP,63.4042012,0,5,2822.694973,634042.012,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+56,71,Nakambala SS to CP,85.08176627,0,5,3269.814991,850817.6627,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+57,72,Nakambala SS to CP,61.08832903,0,5,2770.665232,610883.2903,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+58,73,Nakambala SS to CP,56.69389363,0,5,2669.150574,566938.9363,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+59,74,Nakambala SS to CP,77.97866492,0,5,3130.349507,779786.6492,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+60,75,Cox PAST to CP,59.71430789,0,1,2739.328611,597143.0789,Cox,Past to CP,PAST,Y,N,N,grasstocane
+61,76,Cox SS to CP,52.29839081,0,1,2563.593106,522983.9081,Cox,Ss to CP,SS,Y,N,N,shrubtocane
+62,77,Cox SS to CP,37.76568378,0,1,2178.480156,377656.8378,Cox,Ss to CP,SS,Y,N,N,shrubtocane
+63,78,Cox SS to CP,46.80904172,0,1,2425.324239,468090.4172,Cox,Ss to CP,SS,Y,N,N,shrubtocane
+64,79,Hanapula CANE to CP,44.76718771,0,0,3726.055578,447671.8771,Hanapula,Cane to CP,CANE,N,N,N,alwayscane
+65,80,Hanapula CANE to CP,26.21931948,0,1,2609.878493,262193.1948,Hanapula,Cane to CP,CANE,N,N,N,alwayscane
+66,81,Hanapula CANE to CP,50.68516978,0,1,2537.118292,506851.6978,Hanapula,Cane to CP,CANE,N,N,N,alwayscane
+67,82,Hanapula CANE to CP,9.640660078,0,1,1232.91882,96406.60078,Hanapula,Cane to CP,CANE,N,N,N,alwayscane
+68,83,Hanapula CANE to CP,49.58515357,0,0,2791.931492,495851.5357,Hanapula,Cane to CP,CANE,N,N,N,alwayscane
+69,84,Existing center pivot,98.12488979,1,0,3511.51496,981248.8979,Existing,NA,center,N,Y,N,alwayscane
+70,85,Existing Center Pivot,65.08727559,1,0,2859.914033,650872.7559,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+71,86,Existing Center Pivot,44.39935485,1,0,2362.072709,443993.5485,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+72,87,Existing Center Pivot,45.05516479,1,0,2379.453506,450551.6479,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+73,88,Nanga SS to CP >nov06,66.09226985,0,1,2881.909016,660922.6985,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+74,89,Nanga SS to CP 05-n06,60.34328547,1,0,2753.717649,603432.8547,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+75,90,Nanga SS to CP >nov06,64.61030989,0,1,2849.415904,646103.0989,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+76,91,Nanga SS to CP >nov06,71.7561004,0,1,3002.854894,717561.004,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+77,92,Existing Center Pivot,64.39739006,1,0,2844.716981,643973.9006,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+78,93,Existing Center Pivot,42.60227198,1,0,2313.776002,426022.7198,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+79,94,Existing Center Pivot,63.57975989,1,0,2826.600124,635797.5989,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+80,95,Existing Center Pivot,63.45200308,1,0,2823.758819,634520.0308,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+81,96,Existing Center Pivot,71.5857622,1,0,2999.288613,715857.622,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+82,97,Existing Center Pivot,69.53316263,1,0,2955.976136,695331.6263,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+83,98,Existing Center Pivot,44.02150696,1,0,2352.000365,440215.0696,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+84,99,Existing Center Pivot,69.06473662,1,0,2946.002506,690647.3662,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+85,100,Existing Center Pivot,50.98304536,1,0,2531.149626,509830.4536,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+86,101,Existing Center Pivot,44.70597773,1,0,2370.214937,447059.7773,Existing,Center Center Pivot,Center,N,Y,N,alwayscane
+87,102,Nanga SS to CP 05-n06,67.34424648,1,0,2909.076761,673442.4648,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+88,103,Nanga SS to CP 05-n06,67.15393917,1,0,2904.96349,671539.3917,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+89,104,Nanga SS to CP 05-n06,64.5003673,1,0,2846.990552,645003.673,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+90,105,Nanga SS to CP 05-n06,63.23170678,1,0,2818.852713,632317.0678,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+91,106,Nanga SS to CP 05-n06,69.74411163,1,0,2960.456645,697441.1163,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+92,107,Nanga SS to CP 05-n06,70.63179021,1,0,2979.236904,706317.9021,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+93,108,MGM Existing Center Pivot,82.26201267,1,0,3215.174861,822620.1267,MGM,Existing Center Pivot,Existing,N,Y,N,alwayscane
+94,109,MGM Existing Center Pivot,59.91441615,1,0,2743.914646,599144.1615,MGM,Existing Center Pivot,Existing,N,Y,N,alwayscane
+95,110,MGM Shrub/Scrub to CP,63.88520942,0,1,2833.381757,638852.0942,MGM,Shrub to CP,Shrub,Y,N,N,shrubtocane
+96,111,MGM Shrub/Scrub to CP,36.13348208,0,1,2130.884153,361334.8208,MGM,Shrub to CP,Shrub,Y,N,N,shrubtocane
+97,112,MGM Shrub/Scrub to CP,64.92984356,0,1,2856.453182,649298.4356,MGM,Shrub to CP,Shrub,Y,N,N,shrubtocane
+98,113,MGM Shrub/Scrub to CP,78.60896894,0,1,3142.975401,786089.6894,MGM,Shrub to CP,Shrub,Y,N,N,shrubtocane
+99,114,MGM Existing Center Pivot,63.1723235,1,0,2817.528757,631723.235,MGM,Existing Center Pivot,Existing,N,Y,N,alwayscane
+100,115,MGM Existing Center Pivot,106.6576485,1,0,3661.01016,1066576.485,MGM,Existing Center Pivot,Existing,N,Y,N,alwayscane
+101,116,MGM CP 05-nov06,104.4652227,1,0,3623.187415,1044652.227,MGM,Cp CP nov06,CP,N,Y,N,alwayscane
+102,117,MGM Existing CP,81.39322932,1,0,3198.151787,813932.2932,MGM,Existing Existing CP,Existing,N,Y,N,alwayscane
+103,118,Nanga SS to CP >nov06,65.90604938,0,0,2877.846143,659060.4938,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+104,119,Nanga SS to CP >nov06,58.35247127,0,0,2707.912074,583524.7127,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+105,120,Nanga SS to CP >nov06,63.9359384,0,0,2834.506478,639359.384,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+106,121,Nanga SS to CP >nov06,67.63764826,0,0,2915.406928,676376.4826,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+107,122,Nanga SS to CP >nov06,63.66251643,0,0,2828.439102,636625.1643,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+108,123,Nanga SS to CP >nov06,68.39358263,0,0,2931.6533,683935.8263,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+109,124,Nanga SS to CP >nov06,48.32258952,0,0,3012.365001,483225.8952,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+110,125,MGM SS to CP,25.97284126,0,1,1806.611052,259728.4126,MGM,Ss to CP,SS,Y,N,N,shrubtocane
+111,126,MGM SS to CP,22.21516693,0,1,2154.102779,222151.6693,MGM,Ss to CP,SS,Y,N,N,shrubtocane
+112,127,Nanga Existing CP Cane,96.9154695,1,0,3489.807599,969154.695,Nanga,Existing CP Cane,Existing,N,Y,N,alwayscane
+113,128,Nanga Existing CP,73.59215907,1,0,3041.029999,735921.5907,Nanga,Existing Existing CP,Existing,N,Y,N,alwayscane
+114,129,Existing center pivot,83.84028215,1,0,3245.871313,838402.8215,Existing,NA,center,N,Y,N,alwayscane
+115,130,Existing center pivot,76.50754837,1,0,3100.680905,765075.4837,Existing,NA,center,N,Y,N,alwayscane
+116,131,Existing center pivot,73.15923993,1,0,3032.072101,731592.3993,Existing,NA,center,N,Y,N,alwayscane
+117,132,Existing center pivot,79.59966382,1,0,3162.718572,795996.6382,Existing,NA,center,N,Y,N,alwayscane
+118,133,Existing center pivot,48.8111178,1,0,2476.648131,488111.178,Existing,NA,center,N,Y,N,alwayscane
+119,134,Existing center pivot,37.06993805,1,0,2158.320134,370699.3805,Existing,NA,center,N,Y,N,alwayscane
+120,135,Existing center pivot,94.15025797,1,0,3439.661371,941502.5797,Existing,NA,center,N,Y,N,alwayscane
+121,136,Unidentified Expansion,64.89007097,0,0,2855.578192,648900.7097,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+122,137,Existing center pivot,63.22032897,1,0,2818.599092,632203.2897,Existing,NA,center,N,Y,N,alwayscane
+123,138,Unidentified Expansion,80.37711745,0,0,3178.126251,803771.1745,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+124,139,Unidentified Expansion,85.5630246,0,0,3279.049676,855630.246,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+125,140,Existing center pivot,84.40567467,1,0,3256.797491,844056.7467,Existing,NA,center,N,Y,N,alwayscane
+126,141,Existing center pivot,54.18254724,1,0,2609.363849,541825.4724,Existing,NA,center,N,Y,N,alwayscane
+127,142,Existing center pivot,79.51133112,1,0,3160.963231,795113.3112,Existing,NA,center,N,Y,N,alwayscane
+128,143,Existing center pivot,74.11338435,1,0,3051.780227,741133.8435,Existing,NA,center,N,Y,N,alwayscane
+129,144,Existing center pivot,49.94193819,1,0,2505.172458,499419.3819,Existing,NA,center,N,Y,N,alwayscane
+130,145,Existing center pivot,69.73143841,1,0,2960.187661,697314.3841,Existing,NA,center,N,Y,N,alwayscane
+131,146,Existing center pivot,87.02072657,1,0,3306.863622,870207.2657,Existing,NA,center,N,Y,N,alwayscane
+132,147,Existing center pivot,85.45701548,1,0,3277.017742,854570.1548,Existing,NA,center,N,Y,N,alwayscane
+133,148,Existing center pivot,83.266011,1,0,3234.735776,832660.11,Existing,NA,center,N,Y,N,alwayscane
+134,149,Existing center pivot,48.03366176,1,0,2456.845123,480336.6176,Existing,NA,center,N,Y,N,alwayscane
+135,150,Existing center pivot,52.09759303,1,0,2558.666962,520975.9303,Existing,NA,center,N,Y,N,alwayscane
+136,151,Unidentified Expansion,72.84120964,0,0,3025.474568,728412.0964,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+137,152,Unidentified Expansion,83.65475152,0,0,3242.27792,836547.5152,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+138,153,Existing center pivot,54.11186777,1,0,2607.661376,541118.6777,Existing,NA,center,N,Y,N,alwayscane
+139,154,Unidentified Expansion,95.13969841,0,0,3457.688115,951396.9841,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+140,155,Unidentified Expansion,26.80414275,0,0,1835.295049,268041.4275,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+141,156,Unidentified Expansion,103.161529,0,0,3600.508306,1031615.29,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+142,157,Existing center pivot,70.96828677,1,0,2986.325155,709682.8677,Existing,NA,center,N,Y,N,alwayscane
+143,158,Existing center pivot,81.85248122,1,0,3207.161696,818524.8122,Existing,NA,center,N,Y,N,alwayscane
+144,159,Existing center pivot,83.90212188,1,0,3247.068153,839021.2188,Existing,NA,center,N,Y,N,alwayscane
+145,160,Existing center pivot,75.2088711,1,0,3074.252019,752088.711,Existing,NA,center,N,Y,N,alwayscane
+146,161,Existing center pivot,78.09777689,1,0,3132.73939,780977.7689,Existing,NA,center,N,Y,N,alwayscane
+147,162,Existing center pivot,80.74816054,1,0,3185.453361,807481.6054,Existing,NA,center,N,Y,N,alwayscane
+148,163,Existing center pivot,75.09403614,1,0,3071.904115,750940.3614,Existing,NA,center,N,Y,N,alwayscane
+149,164,Existing center pivot,74.99683276,1,0,3069.915301,749968.3276,Existing,NA,center,N,Y,N,alwayscane
+150,165,Existing center pivot,77.40868807,1,0,3118.888044,774086.8807,Existing,NA,center,N,Y,N,alwayscane
+151,166,Syringa 1 SS to CP,48.26593619,0,1,3485.527619,482659.3619,Syringa,Ss to CP,SS,Y,N,N,shrubtocane
+152,167,Unidentified Expansion,56.44622165,0,0,3169.771157,564462.2165,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+153,168,Syringa 1 SS to CP,21.78913261,0,1,1889.79413,217891.3261,Syringa,Ss to CP,SS,Y,N,N,shrubtocane
+154,169,Unidentified Expansion,38.20961198,0,0,2191.246552,382096.1198,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+155,170,Unidentified Expansion,76.47222454,1,0,3099.965024,764722.2454,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+156,171,Unidentified Expansion,27.07803138,0,0,1844.647874,270780.3138,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+157,172,Unidentified Expansion,47.22088929,0,0,2435.970434,472208.8929,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+158,173,Unidentified Expansion,45.83386972,1,0,2399.927902,458338.6972,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+159,174,Unidentified Expansion,51.15042172,1,0,2535.301079,511504.2172,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+160,175,Unidentified Expansion,44.22101749,1,0,2357.324107,442210.1749,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+161,176,Unidentified Expansion,65.16395977,0,0,2861.598276,651639.5977,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+162,177,Unidentified Expansion,27.79361597,0,0,1868.862967,277936.1597,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+163,178,Unidentified Expansion,61.85096277,0,0,2787.906241,618509.6277,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+164,179,Unidentified Expansion,27.15752569,0,0,1847.353601,271575.2569,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+165,180,Unidentified Expansion,78.00061355,0,0,3130.790025,780006.1355,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+166,181,Unidentified Expansion,19.58313672,0,0,1568.722263,195831.3672,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+167,182,Unidentified Expansion,30.85943818,0,0,1969.241319,308594.3818,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+168,183,Unidentified Expansion,40.1897002,0,0,2247.306538,401897.002,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+169,184,Unidentified Expansion,50.27238888,1,0,2513.446778,502723.8888,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+170,185,Unidentified Expansion,54.04398685,1,0,2606.025265,540439.8685,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+171,186,Unidentified Expansion,43.02780366,0,0,2325.302835,430278.0366,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+172,187,Unidentified Expansion,63.35541974,1,0,2821.608911,633554.1974,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+173,188,Unidentified Expansion,52.10645014,1,0,2558.884452,521064.5014,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+174,189,Unidentified Expansion,53.54878383,1,0,2594.058333,535487.8383,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+175,190,Unidentified Expansion,106.8537445,0,0,3664.3741,1068537.445,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+176,191,Unidentified Expansion,54.56128198,1,0,2618.467664,545612.8198,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+177,192,Unidentified Expansion,51.63619115,1,0,2547.311357,516361.9115,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+178,193,Unidentified Expansion,51.25995372,1,0,2538.014137,512599.5372,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+179,194,Unidentified Expansion,68.71655072,0,0,2938.567072,687165.5072,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+180,195,Unidentified Expansion,84.57422421,1,0,3260.047616,845742.2421,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+181,196,Unidentified Expansion,27.9249208,1,0,1873.272282,279249.208,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+182,197,Unidentified Expansion,31.01933203,0,0,1974.336401,310193.3203,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+183,205,Kascol SMHLDR to CP,64.96878157,1,1,3715.058773,649687.8157,Kascol,Smhldr to CP,SMHLDR,N,Y,N,alwayscane
+184,206,Kascol SMHLDR to CP,36.94374741,1,1,2154.643409,369437.4741,Kascol,Smhldr to CP,SMHLDR,Y,N,N,croptocane
+185,207,Kascol SMHLDR to CP,67.89651491,1,1,2920.980606,678965.1491,Kascol,Smhldr to CP,SMHLDR,Y,N,N,croptocane
+186,208,MGM SS to CP,98.41367411,0,1,3516.678408,984136.7411,MGM,Ss to CP,SS,Y,N,N,shrubtocane
+187,209,MGM SS to CP,37.04481316,0,1,2157.588588,370448.1316,MGM,Ss to CP,SS,Y,N,N,shrubtocane
+188,210,MGM SS to CP,43.95623869,0,1,2350.256127,439562.3869,MGM,Ss to CP,SS,Y,N,N,shrubtocane
+189,211,Lugonzi dense SS to CP,57.18074793,0,1,2680.586634,571807.4793,Lugonzi,Dense to CP,dense,Y,N,N,shrubtocane
+190,212,Lugonzi SS/FOR to CP,51.91972772,0,1,2554.295482,519197.2772,Lugonzi,Ss to CP,SS,Y,N,N,shrubtocane
+191,213,Lugonzi grazed SS to CP,40.00591983,0,1,2242.162383,400059.1983,Lugonzi,Grazed to CP,grazed,Y,N,N,grasstocane
+192,214,Lugonzi PAST to CP,20.77277993,0,1,1974.471067,207727.7993,Lugonzi,Past to CP,PAST,Y,N,N,grasstocane
+193,215,Lugonzi PAST to CP,58.11100455,0,1,2933.967239,581110.0455,Lugonzi,Past to CP,PAST,Y,N,N,grasstocane
+194,216,Lugonzi PAST to CP,30.32467254,0,1,2096.562173,303246.7254,Lugonzi,Past to CP,PAST,Y,N,N,grasstocane
+195,217,Lugonzi SS to CP,22.82400679,0,1,1824.624391,228240.0679,Lugonzi,Ss to CP,SS,Y,N,N,shrubtocane
+196,218,Lugonzi GRAIN to CP,50.12301857,0,1,3408.157148,501230.1857,Lugonzi,Grain to CP,GRAIN,Y,N,N,croptocane
+197,219,Lugonzi SS to CP,39.23349647,0,1,2220.411352,392334.9647,Lugonzi,Ss to CP,SS,Y,N,N,shrubtocane
+198,220,Nakambala Crop to CP,29.35374694,0,5,4359.524097,293537.4694,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+199,221,Nakambala Crop to CP,41.94360498,0,5,3648.174661,419436.0498,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+200,222,Nakambala Crop to CP,12.20771048,0,5,1801.303534,122077.1048,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+201,226,Syringa CROP to CP,22.47525377,0,1,3800.828022,224752.5377,Syringa,Crop to CP,crop,Y,N,N,croptocane
+202,228,Unidentified Expansion,79.80597736,1,0,3166.814628,798059.7736,Unidentified,Expansion Unidentified Expansion,Expansion,Y,N,N,unknowntocane
+203,229,Nanga SS to CP >nov06,60.35613674,0,1,2754.010863,603561.3674,Nanga,Ss CP nov06,SS,Y,N,N,shrubtocane
+204,230,Nakambala smllhlder to CP,48.97506317,0,5,2997.312099,489750.6317,Nakambala,Smllhlder to CP,smllhlder,Y,N,N,croptocane
+205,231,Nakambala CANE to CP,12.72301281,0,5,1470.449917,127230.1281,Nakambala,Cane to CP,CANE,N,Y,N,alwayscane
+206,232,Nakambala Crop to CP,8.639225444,0,5,1257.669499,86392.25444,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+207,233,Nakambala Crop to CP,4.175819502,0,5,1087.449621,41758.19502,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+208,234,Nakambala CANE to CP,17.35222494,0,5,1806.883223,173522.2494,Nakambala,Cane to CP,CANE,N,Y,N,alwayscane
+209,235,MGM CROP to CP,11.09123173,0,1,1322.734338,110912.3173,MGM,Crop to CP,crop,Y,N,N,croptocane
+210,236,Nakambala SS to CP,3.537637662,0,5,1039.769111,35376.37662,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+211,237,Nakambala Crop TO CP,9.130370207,0,5,1526.87581,91303.70207,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+212,238,Nakambala Crop TO CP,10.37028571,0,5,1309.548572,103702.8571,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+213,239,Nakambala CROP to CP,14.11682232,0,5,1689.798977,141168.2232,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+214,240,Nakambala FOR to CP,3.614163744,0,5,1071.62291,36141.63744,Nakambala,For to CP,FOR,Y,N,N,fortocane
+215,241,Nakambala SS to CP,15.8973913,0,5,2383.947989,158973.913,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+216,242,Nakambala Sprs For to CP,8.644302051,0,5,1568.737561,86443.02051,Nakambala,Sprs to CP,Sprs,Y,N,N,shrubtocane
+217,243,Nakambala Crop to CP,5.872388779,0,5,1077.850876,58723.88779,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+218,244,Nakambala crop to CP,17.38446289,0,5,1827.434715,173844.6289,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+219,245,Nakambala SS to CP,12.72632483,0,5,1470.542501,127263.2483,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+220,246,Nakambala mixed ss/sha,5.221744842,0,5,1014.957105,52217.44842,Nakambala,NA,mixed,Y,N,N,shrubtocane
+221,248,Nakambala SS to CP,3.258078736,0,5,1201.354012,32580.78736,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+222,249,Nakambala PAST to CP,3.744265795,0,5,983.4838368,37442.65795,Nakambala,Past to CP,PAST,Y,N,N,grasstocane
+223,250,Nakambala SS to CP,7.110735059,0,5,1530.181108,71107.35059,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+224,251,Nakambala Expansion,4.54E-05,0,0,25.17044665,0.453864823,Nakambala,Expansion Nakambala Expansion,Expansion,Y,N,N,unknowntocane
+225,252,Nakambala SS to CP,4.896125137,0,5,1117.721602,48961.25137,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+226,253,Nakambala Grazed to CP,6.622462622,0,5,1087.344057,66224.62622,Nakambala,Grazed to CP,Grazed,Y,N,N,grasstocane
+227,254,Nakambala crop to CP,3.211856981,0,5,789.105717,32118.56981,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+228,255,Nakambala SS to CP,1.225013174,0,5,519.6220406,12250.13174,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+229,256,Hanapula SS to CP,6.000294458,0,1,1047.025195,60002.94458,Hanapula,Ss to CP,SS,Y,N,N,shrubtocane
+230,257,Hanapula Small tree to CP,5.461596289,0,1,1010.319359,54615.96289,Hanapula,Small to CP,Small,Y,N,N,fortocane
+231,258,Hanapula SS to CP,10.70880208,0,1,1708.862038,107088.0208,Hanapula,Ss to CP,SS,Y,N,N,shrubtocane
+232,259,Hanapula Small tree to CP,10.20247588,0,1,2229.738999,102024.7588,Hanapula,Small to CP,Small,Y,N,N,fortocane
+233,260,Hanapula CANE to CP,2.835862592,0,1,794.6247839,28358.62592,Hanapula,Cane to CP,CANE,N,Y,N,alwayscane
+234,261,Matalikila SS to CP,38.79782292,0,1,2634.185522,387978.2292,Matalikila,Ss to CP,SS,Y,N,N,shrubtocane
+235,262,Matalikila SS to CP,5.135174714,0,1,1027.822655,51351.74714,Matalikila,Ss to CP,SS,Y,N,N,shrubtocane
+236,263,Matalikila PAST to CP,12.03066951,0,0,1349.935247,120306.6951,Matalikila,Past to CP,PAST,Y,N,N,grasstocane
+237,264,Matalikila,8.64E-06,0,0,16.27695053,0.086370517,Matalikila,NA,Mata,N,N,N,None
+238,265,Matalikila PAST to CP,1.105519491,0,0,480.4177485,11055.19491,Matalikila,Past to CP,PAST,Y,N,N,grasstocane
+239,266,Matalikila PAST to CP,14.65861324,0,0,1619.27106,146586.1324,Matalikila,Past to CP,PAST,Y,N,N,grasstocane
+240,267,Matalikila,7.861871315,0,0,1435.516798,78618.71315,Matalikila,NA,Mata,N,N,N,None
+241,268,Matalikila CROP to CP,11.68107754,0,1,1553.890683,116810.7754,Matalikila,Crop to CP,crop,Y,N,N,croptocane
+242,269,Matalikila trees to CP,7.320784567,0,1,1531.850051,73207.84567,Matalikila,Trees to CP,trees,Y,N,N,fortocane
+243,270,Matalikila CROP to CP,6.895955178,0,1,1152.301065,68959.55178,Matalikila,Crop to CP,crop,Y,N,N,croptocane
+244,271,Matalikila CROP to CP,12.15206957,0,1,1919.22321,121520.6957,Matalikila,Crop to CP,crop,Y,N,N,croptocane
+245,272,Matalikila FOR to CP,6.782687299,0,1,1165.073668,67826.87299,Matalikila,For to CP,FOR,Y,N,N,fortocane
+246,273,Matalikila Open/Wet to CP,4.245354463,0,1,1118.084979,42453.54463,Matalikila,Open to CP,Open,Y,N,N,grasstocane
+247,274,Matalikila CROP to CP,13.7711109,0,1,1553.769332,137711.109,Matalikila,Crop to CP,crop,Y,N,N,croptocane
+248,275,Matalikila SS to CP,3.403387846,0,1,742.7382445,34033.87846,Matalikila,Ss to CP,SS,Y,N,N,shrubtocane
+249,276,Matalikila plantation,3.915574368,0,1,789.9538696,39155.74368,Matalikila,NA,plantation,Y,N,N,croptocane
+250,277,Matalikila grass to CP,4.806988195,0,1,926.9579801,48069.88195,Matalikila,Grass to CP,grass,Y,N,N,grasstocane
+251,278,Matalikila CROP to CP,2.633785847,0,1,697.1141108,26337.85847,Matalikila,Crop to CP,crop,Y,N,N,croptocane
+252,279,Matalikila FOR to CP,1.935865903,0,1,615.2258124,19358.65903,Matalikila,For to CP,FOR,Y,N,N,fortocane
+253,280,Syringa 2 SPFOR to CP,11.66238929,0,1,1446.07663,116623.8929,Syringa,Spfor to CP,SPFOR,Y,N,N,fortocane
+254,281,Syringa 2 grazed to CP,7.802715417,0,1,1447.781757,78027.15417,Syringa,Grazed to CP,grazed,Y,N,N,grasstocane
+255,282,Syringa 2 grazed to CP,5.738007996,0,1,965.930199,57380.07996,Syringa,Grazed to CP,grazed,Y,N,N,grasstocane
+256,283,Syringa 2 SPFOR to CP,6.455814532,0,1,1069.339999,64558.14532,Syringa,Spfor to CP,SPFOR,Y,N,N,fortocane
+257,284,Syringa GrazedSS to CP,5.729959219,0,1,1081.084828,57299.59219,Syringa,Grazedss to CP,GrazedSS,Y,N,N,grasstocane
+258,285,Syringa FOR to CP,3.964876554,0,1,1287.692408,39648.76554,Syringa,For to CP,FOR,Y,N,N,fortocane
+259,286,Syringa2 crop to CP,2.605233295,0,1,861.877567,26052.33295,Syringa,Crop to CP,crop,Y,N,N,croptocane
+260,287,Syringa2 crop to CP,19.18513723,0,1,1714.847685,191851.3723,Syringa,Crop to CP,crop,Y,N,N,croptocane
+261,288,Syringa 2 SS to CP,8.010694761,0,1,1714.363041,80106.94761,Syringa,Ss to CP,SS,Y,N,N,shrubtocane
+262,289,Syringa 2 Expansion,0.00327992,0,0,97.8056543,32.7991979,Syringa,Expansion Syringa Expansion,Expansion,Y,N,N,unknowntocane
+263,290,Syringa GrazedSS to CP,8.669627633,0,1,1226.79458,86696.27633,Syringa,Grazedss to CP,GrazedSS,Y,N,N,grasstocane
+264,291,Lugonzi SPFOR to CP,6.590436313,0,1,1296.954936,65904.36313,Lugonzi,Spfor to CP,SPFOR,Y,N,N,fortocane
+265,292,Lugonzi PAST to CP,0.661249928,0,1,609.8156848,6612.499276,Lugonzi,Past to CP,PAST,Y,N,N,grasstocane
+266,293,Lugonzi SPFOR to CP,12.80617301,0,1,1715.836279,128061.7301,Lugonzi,Spfor to CP,SPFOR,Y,N,N,fortocane
+267,294,Lugonzi PAST to CP,11.49562507,0,1,1556.505987,114956.2507,Lugonzi,Past to CP,PAST,Y,N,N,grasstocane
+268,295,Lugonzi,8.365061176,0,0,1283.722859,83650.61176,Lugonzi,NA, ,N,N,N,None
+269,296,Lugonzi GRAIN to CP,2.894507276,0,1,1009.190908,28945.07276,Lugonzi,Grain to CP,GRAIN,Y,N,N,croptocane
+270,297,Lugonzi GRAIN to CP,1.613925127,0,1,832.7701309,16139.25127,Lugonzi,Grain to CP,GRAIN,Y,N,N,croptocane
+271,298,Lugonzi cane to CP,13.48284458,0,1,1525.67497,134828.4458,Lugonzi,Cane to CP,cane,N,Y,N,alwayscane
+272,299,Lugonzi SS to CP,4.221194761,0,1,1097.767488,42211.94761,Lugonzi,Ss to CP,SS,Y,N,N,shrubtocane
+273,300,Lukata Crop to CP,21.6514889,0,1,2176.69477,216514.889,Lukata,Crop to CP,crop,Y,N,N,croptocane
+274,301,Lukata CANE to CP,6.846817352,0,1,1094.732002,68468.17352,Lukata,Cane to CP,CANE,N,Y,N,alwayscane
+275,302,Lukata CANE to CP,3.648658069,0,1,882.3985245,36486.58069,Lukata,Cane to CP,CANE,N,Y,N,alwayscane
+276,303,Lukata Crop to CP,17.59533999,0,1,2515.283975,175953.3999,Lukata,Crop to CP,crop,Y,N,N,croptocane
+277,304,Lukata CANE to CP,3.512174138,0,1,1009.425923,35121.74138,Lukata,Cane to CP,CANE,N,Y,N,alwayscane
+278,305,Lukata for to CP,1.134797396,0,0,631.0044007,11347.97396,Lukata,For to CP,for,Y,N,N,fortocane
+279,306,Lukata SMLHDR to CP,5.796317469,0,1,1119.95964,57963.17469,Lukata,Smlhdr to CP,SMLHDR,Y,N,N,croptocane
+280,307,MGM SS to CP,27.56203792,0,1,1861.060943,275620.3792,MGM,Ss to CP,SS,Y,N,N,shrubtocane
+281,308,MGM CROP to CANE,21.54682278,0,0,1961.208933,215468.2278,MGM,Crop to cane,crop,Y,N,N,croptocane
+282,309,MGM crop to CANE?,21.77260023,0,0,2170.62537,217726.0023,MGM,Crop to cane?,crop,Y,N,N,croptocane
+283,310,MGM crop to CANE?,22.4009774,0,0,2777.401573,224009.774,MGM,Crop to cane?,crop,Y,N,N,croptocane
+284,311,MGM crop to CANE?,11.84808205,0,0,1753.919303,118480.8205,MGM,Crop to cane?,crop,Y,N,N,croptocane
+285,312,Syringa2 cane to CP,24.4122393,0,0,1966.615002,244122.393,Syringa,Cane to CP,cane,N,Y,N,alwayscane
+286,314,Syringa2 crop to CP,17.82333416,0,0,1730.099935,178233.3416,Syringa,Crop to CP,crop,Y,N,N,croptocane
+287,315,Syringa2 crop to fallow,6.990481385,0,0,1173.322793,69904.81385,Syringa,NA,crop,Y,N,Y,croptofallow
+288,316,Syringa2 crop to CP,6.909718327,0,0,1112.952758,69097.18327,Syringa,Crop to CP,crop,Y,N,N,croptocane
+289,317,Syringa2 cane to CP,12.74860883,0,0,1439.917036,127486.0883,Syringa,Cane to CP,cane,N,Y,N,alwayscane
+290,319,Syringa2 crop to CP,12.23332361,0,0,1432.621333,122333.2361,Syringa,Crop to CP,crop,Y,N,N,croptocane
+291,320,Syringa2 cane to CP,25.07343257,0,0,1953.318452,250734.3257,Syringa,Cane to CP,cane,N,Y,N,alwayscane
+292,321,Lukata FOR to CP,4.245364426,0,1,835.0449262,42453.64426,Lukata,For to CP,FOR,Y,N,N,fortocane
+293,322,MGM SMHLDR to CANE,14.44232529,0,0,1623.290596,144423.2529,MGM,Smhldr to CANE,SMHLDR,Y,N,N,croptocane
+294,323,MGM SS to CANE,7.211844056,0,0,1228.401864,72118.44056,MGM,Ss to CANE,SS,Y,N,N,shrubtocane
+295,324,Kascol Resid (3) to CP,1.277071319,1,1,844.0128123,12770.71319,Kascol,Resid to CP,Resid,Y,N,N,residtocane
+296,325,Lugonzi GRAIN to CP,8.318987026,0,1,1250.968983,83189.87026,Lugonzi,Grain to CP,GRAIN,Y,N,N,croptocane
+297,326,Lugonzi SS to CP,4.225641597,0,1,910.6845758,42256.41597,Lugonzi,Ss to CP,SS,Y,N,N,shrubtocane
+298,327,Lugonzi GRAIN to CP,4.332203753,0,1,863.9041917,43322.03753,Lugonzi,Grain to CP,GRAIN,Y,N,N,croptocane
+299,328,Lugonzi cane to CP,4.893242048,0,1,898.688257,48932.42048,Lugonzi,Cane to CP,cane,N,Y,N,alwayscane
+300,329,Lugonzi cane to CP,3.635505065,0,1,1022.902507,36355.05065,Lugonzi,Cane to CP,cane,N,Y,N,alwayscane
+301,330,Lugonzi GRAIN to CP,8.838052845,0,1,1658.307408,88380.52845,Lugonzi,Grain to CP,GRAIN,Y,N,N,croptocane
+302,331,Syringa 1 SS to CP,18.93838304,0,1,1810.538776,189383.8304,Syringa,Ss to CP,SS,Y,N,N,shrubtocane
+303,334,Syringa 1 SS to CP,29.50771671,0,1,2619.854947,295077.1671,Syringa,Ss to CP,SS,Y,N,N,shrubtocane
+304,335,Syringa 1 SMHDLR to CP,5.563041088,0,1,955.0597752,55630.41088,Syringa,Smhdlr to CP,SMHDLR,Y,N,N,croptocane
+305,336,Hanapula SS to Cane,5.595555875,0,0,1065.25265,55955.55875,Hanapula,Ss to Cane,SS,Y,N,N,shrubtocane
+306,337,Hanapula SS to Cane,6.513488849,0,0,1066.259297,65134.88849,Hanapula,Ss to Cane,SS,Y,N,N,shrubtocane
+307,338,Nakambala Cane to CP,3.761230128,0,5,999.8832074,37612.30128,Nakambala,Cane to CP,Cane,N,Y,N,alwayscane
+308,339,Nakambala CANE to CP,6.852220761,0,5,1207.332836,68522.20761,Nakambala,Cane to CP,CANE,N,Y,N,alwayscane
+309,340,Maggobo new resid area,16.34687513,0,0,1681.342306,163468.7513,Maggobo,new resid,new,Y,N,N,resid
+310,341,Maggobo new resid area,1.682473441,0,0,516.272993,16824.73441,Maggobo,new resid,new,Y,N,N,resid
+311,342,Maggobo new resid area,13.11240556,0,0,1504.931338,131124.0556,Maggobo,new resid,new,Y,N,N,resid
+312,343,Maggobo expanded res area,42.19610779,0,0,3443.178546,421961.0779,Maggobo,expanded resid,expanded,Y,N,N,resid
+313,344,Maggobo new resid area,32.2046617,0,0,2495.356215,322046.617,Maggobo,new resid,new,Y,N,N,resid
+314,345,Nakambala SS to CP,77.86176087,0,0,3128.002148,778617.6087,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+315,346,Existing nonCP Cane,12.41181759,0,0,1413.825334,124118.1759,Existing,nonCP cane,nonCP,Y,N,N,croptocane
+316,347,Existing nonCP cane,18.39031433,0,0,1753.19846,183903.1433,Existing,nonCP cane,nonCP,Y,N,N,croptocane
+317,348,Existing nonCP cane,23.58240859,0,0,1948.624839,235824.0859,Existing,nonCP cane,nonCP,Y,N,N,croptocane
+318,351,Hanapula cane to CP,19.58615401,0,0,1739.461073,195861.5401,Hanapula,Cane to CP,cane,N,Y,N,alwayscane
+319,352,Hanapula non-cane to CP,9.764884559,0,1,1281.960089,97648.84559,Hanapula,Non to CP,non,Y,N,N,croptocane
+320,353,Hanapula non-cane CP,4.956021879,0,0,970.1519339,49560.21879,Hanapula,Non cane CP,non,Y,N,N,croptocane
+321,354,Hanapual SS? to cane,7.002626862,0,0,1461.729078,70026.26862,Hanapual,Ss to cane,SS,Y,N,N,shrubtocane
+322,355,hamapula ss to noncpcane,7.758753342,0,0,1142.646484,77587.53342,hamapula,NA,ss,Y,N,N,shrubtocane
+323,356,hamapula ss to noncpcane,6.997599482,0,0,1123.168796,69975.99482,hamapula,NA,ss,Y,N,N,shrubtocane
+324,357,hamapula cane to cane,1.048860719,0,0,548.764192,10488.60719,hamapula,NA,cane,N,Y,N,alwayscane
+325,358,Hamapula cane to cane,6.656745797,0,0,1395.217395,66567.45797,Hamapula,NA,cane,N,Y,N,alwayscane
+326,359,hamapula ss to noncpcane,8.828822103,0,0,1331.67395,88288.22103,hamapula,NA,ss,Y,N,N,shrubtocane
+327,360,hamapula cane to cane,16.41861733,0,0,1895.165074,164186.1733,hamapula,NA,cane,N,Y,N,alwayscane
+328,361,hamapula polo course,7.831517436,0,0,1179.850549,78315.17436,hamapula,NA,polo,Y,N,N,polo
+329,362,hamapula cane to cane,10.37686229,0,0,1281.176933,103768.6229,hamapula,NA,cane,N,Y,N,alwayscane
+330,366,hamapula cane to cane,7.839004422,0,0,1114.06996,78390.04422,hamapula,NA,cane,N,Y,N,alwayscane
+331,367,hamapula cane to cane,6.894952289,0,0,1794.652381,68949.52289,hamapula,NA,cane,N,Y,N,alwayscane
+332,368,Syringa2 crop to CP,5.684940393,0,0,1068.565636,56849.40393,Syringa,Crop to CP,crop,Y,N,N,croptocane
+333,369,Syringa2 cane to fallow,1.189145001,0,0,583.5256802,11891.45001,Syringa,NA,cane,Y,N,N,canetofallow
+334,370,Syringa2 crop to CP,15.19611214,0,0,1520.642628,151961.1214,Syringa,Crop to CP,crop,Y,N,N,croptocane
+335,371,Syringa2 crop to fallow,2.433011715,0,0,815.7413154,24330.11715,Syringa,NA,crop,Y,N,Y,croptofallow
+336,372,Syringa2 Existing Crop,7.416401405,0,0,1227.521643,74164.01405,Syringa,Existing Existing Crop,Existing,Y,N,Y,croptocrop
+337,373,Syringa2 Crop to Fallow,5.007036959,0,0,1085.794091,50070.36959,Syringa,Crop to Fallow,Crop,Y,N,Y,croptofallow
+338,374,Syringa2 Crop to fallow,3.41287595,0,0,1175.154739,34128.7595,Syringa,Crop to fallow,Crop,Y,N,Y,croptofallow
+339,375,Syringa2 crop to fallow,2.317963066,0,0,1044.31055,23179.63066,Syringa,NA,crop,Y,N,Y,croptofallow
+340,376,Syringa2 cro to CP,0.6857783,0,0,457.2481411,6857.783003,Syringa,Cro to CP,crop,Y,N,N,croptocane
+341,377,Syringa2 crop to CP,1.754567503,0,0,687.4002639,17545.67503,Syringa,Crop to CP,crop,Y,N,N,croptocane
+342,378,Syringa2 Crop to fallow,0.044403887,0,0,198.2430008,444.0388721,Syringa,Crop to fallow,Crop,Y,N,Y,croptofallow
+343,379,Syringa2 Crop to fallow,3.307317693,0,0,1176.91105,33073.17693,Syringa,Crop to fallow,Crop,Y,N,Y,croptofallow
+344,380,Syringa2 Crop to fallow,0.561050379,0,0,476.5644704,5610.50379,Syringa,Crop to fallow,Crop,Y,N,Y,croptofallow
+345,381,Syringa2 crop to CP,1.411331026,0,0,761.7433561,14113.31026,Syringa,Crop to CP,crop,Y,N,N,croptocane
+346,383,Syringa crop to fallow,3.259437619,0,0,975.029513,32594.37619,Syringa,NA,crop,Y,N,Y,croptofallow
+347,386,Syringa2? Cane to Cane,83.70935103,0,0,3749.599704,837093.5103,Syringa,Cane to Cane,Cane,N,Y,N,alwayscane
+348,387,Syringa2? Cane to Cane,71.27551549,0,0,5080.075516,712755.155,Syringa,Cane to Cane,Cane,N,Y,N,alwayscane
+349,388,Syringa2? Cane to Cane,40.66785293,0,0,3865.956617,406678.5293,Syringa,Cane to Cane,Cane,N,Y,N,alwayscane
+350,389,Syringa2? Cane to Cane,25.23671766,0,0,2586.391475,252367.1766,Syringa,Cane to Cane,Cane,N,Y,N,alwayscane
+351,390,Syringa2? Crop to CP,26.16106816,0,0,2054.853746,261610.6816,Syringa,Crop to CP,crop,Y,N,N,croptocane
+352,391,Syringa2? Crop to CP,17.11289757,0,0,1732.536294,171128.9757,Syringa,Crop to CP,crop,Y,N,N,croptocane
+353,392,Syringa2? Crop to CP,43.90373297,0,0,2665.684985,439037.3297,Syringa,Crop to CP,crop,Y,N,N,croptocane
+354,393,Syringa2? Crop to noncp *,11.57987875,0,0,1366.022651,115798.7875,Syringa,Crop to noncp *,Crop,Y,N,Y,croptocrop
+355,394,Syringa2? Crop to noncp *,9.860383042,0,0,1259.388394,98603.83042,Syringa,Crop to noncp *,Crop,Y,N,Y,croptocrop
+356,395,Syringa2? Crop to Cane,3.398938813,0,0,994.4905024,33989.38813,Syringa,Crop to cane,crop,Y,N,N,croptocane
+357,396,Syringa2? Crop to Cane,0.787258341,0,0,494.3108295,7872.583412,Syringa,Crop to cane,crop,Y,N,N,croptocane
+358,397,Syringa2? Crop to cane,1.405464718,0,0,671.4324449,14054.64718,Syringa,Crop to cane,crop,Y,N,N,croptocane
+359,398,Syringa2? Cane to CP,4.882018824,0,0,1027.039099,48820.18824,Syringa,Cane to CP,Cane,N,Y,N,alwayscane
+360,399,Syringa2? Cane to CP,9.51143436,0,0,1856.837789,95114.3436,Syringa,Cane to CP,Cane,N,Y,N,alwayscane
+361,400,Syringa2? Cane to CP,7.330971047,0,0,1423.230305,73309.71047,Syringa,Cane to CP,Cane,N,Y,N,alwayscane
+362,401,Matalikala crop to cane,4.913398007,0,0,987.2041047,49133.98007,Matalikala,Crop to cane,crop,Y,N,N,croptocane
+363,402,Matalikala crop to cane,3.12351994,0,0,708.7902427,31235.1994,Matalikala,Crop to cane,crop,Y,N,N,croptocane
+364,403,Matalikala crop to cane,1.782229831,0,0,551.2641679,17822.29831,Matalikala,Crop to cane,crop,Y,N,N,croptocane
+365,409,Nakambala Crop to CP,12.68870534,0,5,1500.464551,126887.0534,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+366,410,Nakambala Crop to CP,7.019389899,0,5,1300.134304,70193.89899,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+367,411,Nakambala Crop to CP,3.482176171,0,5,756.6406897,34821.76171,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+368,412,Nakambala Crop to CP,3.791889906,0,5,817.4669622,37918.89906,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+369,413,Nakambala Crop to CP,3.311529627,0,5,786.2646169,33115.29627,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+370,414,Nakambala For to CP,3.77229813,0,5,930.4639439,37722.9813,Nakambala,For to CP,For,Y,N,N,fortocane
+371,415,Nakambala For to CP,5.307367201,0,5,1786.051464,53073.67201,Nakambala,For to CP,For,Y,N,N,fortocane
+372,416,Nakambala Crop to CP,4.041580549,0,5,933.7569933,40415.80549,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+373,417,Nakambala SS to CP,11.92516254,0,5,1799.929414,119251.6254,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+374,418,Nakambala Crop to CP,5.490998199,0,5,1168.529239,54909.98199,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+375,419,Nakambala Crop to CP,5.161755702,0,5,957.1663716,51617.55702,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+376,420,Nakambala SS to CP,3.363713935,0,5,930.5146119,33637.13935,Nakambala,Ss to CP,SS,Y,N,N,shrubtocane
+377,421,Nakambala Crop to CP,2.388051909,0,5,825.8460696,23880.51909,Nakambala,Crop to CP,crop,Y,N,N,croptocane
+378,422,Nakambala Sml FLDS to CP,6.778202642,0,5,1107.979114,67782.02642,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+379,423,Nakambala Sml FLDS to CP,21.92687424,0,5,2254.135083,219268.7424,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+380,424,Nakambala Sml FLDS to CP,2.916781964,0,5,805.9552249,29167.81964,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+381,425,Nakambala Sml FLDS to CP,8.163338251,0,5,1188.387319,81633.38251,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+382,426,Nakambala Sml FLDS to CP,7.904613604,0,5,1139.222595,79046.13604,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+383,427,Nakambala Sml FLDS to CP,14.45949692,0,5,1612.808363,144594.9692,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+384,428,Nakambala Sml FLDS to CP,6.891927011,0,5,1269.182423,68919.27011,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+385,429,Nakambala Sml FLDS to CP,0.913795126,0,5,601.0855604,9137.951257,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+386,430,Nakambala Sml FLDS to CP,5.977130184,0,5,1611.371345,59771.30184,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+387,431,Nakambala Sml FLDS to CP,9.07544483,0,5,1276.981783,90754.4483,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+388,432,Nakambala Sml FLDS to CP,2.002372681,0,5,814.522358,20023.72681,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+389,433,Nakambala Sml FLDS to CP,2.614241078,0,5,846.7119616,26142.41078,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+390,434,Nakambala Sml FLDS to CP,1.354644776,0,5,682.4994595,13546.44776,Nakambala,Sml to CP,Sml,Y,N,N,croptocane
+391,435,Lukata Crop to CP,3.130980005,0,1,940.4747209,31309.80005,Lukata,Crop to CP,crop,Y,N,N,croptocane
+392,436,Lukata Crop to CP,1.19014803,0,1,484.223631,11901.4803,Lukata,Crop to CP,crop,Y,N,N,croptocane
+393,437,Lukata CANE to CP,2.349260485,0,1,860.8198825,23492.60485,Lukata,Cane to CP,CANE,N,Y,N,alwayscane
+394,438,Lukata CANE to CP,0.762347928,0,1,383.082513,7623.479279,Lukata,Cane to CP,CANE,N,Y,N,alwayscane
+395,439,Lukata CANE to CP,4.871200009,0,1,1359.960526,48712.00009,Lukata,Cane to CP,CANE,N,Y,N,alwayscane
+396,440,Lukata Crop to CP,9.841608342,0,1,1567.190185,98416.08342,Lukata,Crop to CP,crop,Y,N,N,croptocane
+397,441,MGM SS to noncp Cane,11.9509256,0,0,1562.046871,119509.256,MGM,Ss noncp Cane,SS,Y,N,N,shrubtocane
+398,442,MGM SS to noncp Cane,7.180461062,0,0,1265.411657,71804.61062,MGM,Ss noncp Cane,SS,Y,N,N,shrubtocane
+399,443,MGM ss to noncp Cane,6.003006142,0,0,1419.322481,60030.06142,MGM,Ss noncp Cane,ss,Y,N,N,shrubtocane
+400,444,MGM ss to noncp Cane,6.994785635,0,0,1403.510182,69947.85635,MGM,Ss noncp Cane,ss,Y,N,N,shrubtocane
+401,445,MGM ss to noncp Cane,6.400672988,0,0,1534.272674,64006.72988,MGM,Ss noncp Cane,ss,Y,N,N,shrubtocane
+402,447,MGM ss to noncp Cane,24.74492081,0,0,3008.150983,247449.2081,MGM,Ss noncp Cane,ss,Y,N,N,shrubtocane
+403,448,MGM ss to noncp Cane,25.42771805,0,0,3007.760997,254277.1805,MGM,Ss noncp Cane,ss,Y,N,N,shrubtocane
+404,449,MGM ss to noncp Cane,9.2586261,0,0,1802.105725,92586.261,MGM,Ss noncp Cane,ss,Y,N,N,shrubtocane
+405,450,Syringa cane to CP,13.19220166,0,1,1511.8911,131922.0166,Syringa,Cane to CP,cane,N,Y,N,alwayscane
+406,451,Syringa2 Crop to CP,11.11651048,0,0,1429.876225,111165.1048,Syringa,Crop to CP,crop,Y,N,N,croptocane
+407,480,maggobo smallhldrs CANE,483.5758912,0,0,585.9433533,12261.38567,Magobo,Cane to Cane,smallhldrs,N,Y,N,alwayscane
+408,504,Magobo-fields,22.93456285,0,0,2634.378211,229345.6285,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+409,505,Magobo-fields,15.58994146,0,0,1874.904815,155899.4146,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+410,506,Magobo-fields,16.26725575,0,0,1898.133493,162672.5575,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+411,507,Magobo-fields,14.99831555,0,0,1748.285778,149983.1555,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+412,508,Magobo-fields,15.86086662,0,0,1848.106341,158608.6662,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+413,509,Magobo-fields,5.629463158,0,0,1169.813542,56294.63158,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+414,514,Magobo-fields,12.68252526,0,0,1550.322278,126825.2526,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+415,515,Magobo-fields,7.831609675,0,0,1287.493666,78316.09675,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+416,516,Magobo-fields,15.66125713,0,0,1874.702478,156612.5713,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+417,517,Magobo-fields,15.50803479,0,0,1891.239302,155080.3479,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+418,518,Magobo-fields,15.98822732,0,0,1895.968045,159882.2732,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+419,519,Magobo-fields,15.20418905,0,0,1820.183446,152041.8905,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+420,520,Magobo-fields,15.062324,0,0,1799.360083,150623.24,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+421,521,Magobo-fields,11.13169294,0,0,1544.661739,111316.9294,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+422,522,Magobo-fields,15.45265091,0,0,1847.333074,154526.5091,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+423,523,Magobo-fields,14.38227518,0,0,1834.584821,143822.7518,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+424,524,Magobo-fields,15.22182674,0,0,1787.936409,152218.2674,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+425,525,Magobo-fields,9.915930636,0,0,1420.785529,99159.30636,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+426,526,Magobo-fields,3.270172416,0,0,834.2175499,32701.72416,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+427,527,Magobo-fields,12.71909854,0,0,1700.381106,127190.9854,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+428,528,Magobo-fields,10.51878736,0,0,1582.812706,105187.8736,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+429,529,Magobo-fields,4.02899509,0,0,985.5670285,40289.9509,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+430,531,Magobo-fields,9.492559204,0,0,1310.37836,94925.59204,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+431,532,Magobo-fields,7.426527655,0,0,1094.147948,74265.27655,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+432,533,Magobo-fields,7.987189921,0,0,1151.196019,79871.89921,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+433,534,Magobo-fields,9.365589497,0,0,1261.112724,93655.89497,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+434,535,Magobo-fields,3.664409531,0,0,796.7474404,36644.09531,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+435,537,Magobo-fields,5.800719154,0,0,1013.316513,58007.19154,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+436,538,Magobo-fields,7.129999333,0,0,1149.764207,71299.99333,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+437,539,Magobo-fields,9.134898254,0,0,1312.130396,91348.98254,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+438,540,Magobo-fields,8.779846142,0,0,1339.093015,87798.46142,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+439,541,Magobo-fields,3.405765367,0,0,1321.424745,34057.65367,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+440,542,Magobo-fields,10.99505623,0,0,1521.782844,109950.5623,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+441,544,Magobo-fields,11.27852441,0,0,1516.477837,112785.2441,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+442,545,Magobo-fields,10.743205,0,0,1500.200983,107432.05,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+443,546,Magobo-fields,8.456148003,0,0,1335.799204,84561.48003,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+444,547,Magobo-fields,5.206879196,0,0,1048.737072,52068.79196,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+445,548,Magobo-fields,8.639161531,0,0,1273.936354,86391.61531,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+446,549,Magobo-fields,7.668456134,0,0,1239.541527,76684.56134,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
+447,550,Magobo-fields,4.450926836,0,0,993.7343055,44509.26836,Magobo,magobo-fields,fields,Y,N,N,unknowntocane
