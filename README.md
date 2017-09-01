@@ -7,7 +7,7 @@ All fields which were converted to sugar cane from nonsugar cane are analyzed an
 Always cane (all exisiting cane fields - includes fields that switched irrigation techniques, ie: non center pivot to center pivot) <br>
 Crop to cane (includes grains) <br>
 Shrub to cane (shrubs) <br>
-Unknown to cane (all unidentified expanded lands - assumed to originally be noncane)<br><br>
+Unknown to cane (all unidentified expanded lands - assumed to originally be noncane)<br>
 Forest to cane (forested and small trees)<br>
 Grass to cane (includes grazed lands) <br>
 Residential to cane<br>
