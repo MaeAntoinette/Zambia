@@ -1,3 +1,5 @@
+#View the RasterTimeSeries_NDVI_workenv file for faster analysis. 
+
 #Raster Time Series
 require(rts)
 require(raster)
